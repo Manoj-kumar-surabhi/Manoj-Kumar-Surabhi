@@ -31,5 +31,5 @@ Developing a data platform for F1 Motorsport to support data analysis, reporting
 - Completing a certification in Azure DataBricks to enhance my cloud data engineering skills.
 
 ## 📫 Let’s Connect:
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/manoj-kumar-surabhi/)) | [Email](mailto:mksurabh@mtu.edu)
+- [LinkedIn](https://www.linkedin.com/in/manoj-kumar-surabhi/) | [Email](mailto:mksurabh@mtu.edu)
 
