@@ -1,6 +1,6 @@
 # Hello, I'm Manoj Kumar Surabhi ! 👋
 
-🎓 I’m a graduate student from Michigan Technological University, Houghton, passionate about Data Science and Front End Web Development.
+🎓 I’m a Graduate Data Science Student from Michigan Technological University, Houghton, passionate about Data Science and Front End Web Development.
 
 ## 🔧 Technical Skills:
 - **Data Science & Analytics**: Python, R, Tableau
