@@ -1,4 +1,4 @@
-# Hello, I'm Manoj Kumar Surabhi ! 👋
+# Hello, I'm Manoj Kumar Surabhi! 👋
 
 🎓 I’m a Graduate Data Science Student from Michigan Technological University, Houghton, passionate about Data Science and Front End Web Development.
 
