@@ -3,7 +3,7 @@
 🎓 I’m a Graduate Data Science Student from Michigan Technological University, Houghton, passionate about Data Science and Front End Web Development.
 
 ## 🔧 Technical Skills:
-- **Data Science & Analytics**: Python, R, Tableau
+- **Data Science & Analytics**: Python, R, Tableau, SQL
 - **Web Development**: HTML, CSS, JavaScript, React.js, Node.js, Express.js
 - **Databases**: MySQL
 - **Cloud Platforms**: Azure DataBricks
