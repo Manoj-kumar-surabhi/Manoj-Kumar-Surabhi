@@ -28,7 +28,7 @@ Developing a data platform for F1 Motorsport to support data analysis, reporting
 [[GitHub Repo for F1 Data Platform](https://github.com/Manoj-kumar-surabhi/Azure_DataBricks)](#)
 
 ## 🌱 Currently Learning:
-- Completing a certification in Azure DataBricks to enhance my cloud data engineering skills.
+- Completing a certification in Azure DataBricks [DP-203] to enhance my cloud data engineering skills.
 
 ## 📫 Let’s Connect:
 - [LinkedIn](https://www.linkedin.com/in/manoj-kumar-surabhi/) | [Email](mksurabh@mtu.edu)
