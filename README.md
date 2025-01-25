@@ -6,7 +6,7 @@
 - **Data Science & Analytics**: Python, R, Tableau, SQL
 - **Web Development**: HTML, CSS, JavaScript, React.js, Node.js, Express.js
 - **Databases**: MySQL
-- **Cloud Platforms**: Azure DataBricks
+- **Cloud Platforms**: Azure DataBricks, Data Factory
 - **Version Control**: Git & GitHub
 
 ## 🚀 Featured Projects:
